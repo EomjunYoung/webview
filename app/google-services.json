@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "655489878788",
+    "firebase_url": "https://webview-81786.firebaseio.com",
+    "project_id": "webview-81786",
+    "storage_bucket": "webview-81786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655489878788:android:867f2b0fa75fd30d",
+        "android_client_info": {
+          "package_name": "net.zeany.webview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655489878788-qdc1dug83a9m38ui95lmtu50erg3cp2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApWXONt0-jPIxhhwP8SWwt6HbOQTG_zGg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
